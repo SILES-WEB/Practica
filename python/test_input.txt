@@ -1,3 +1,0 @@
-This is a test message.
-Another line of text.
-And one more line!
